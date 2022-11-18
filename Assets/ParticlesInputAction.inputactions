@@ -1,0 +1,126 @@
+{
+    "name": "New Controls",
+    "maps": [
+        {
+            "name": "Particles",
+            "id": "4c983f4e-dcff-41b9-9fbb-f6875052d787",
+            "actions": [
+                {
+                    "name": "RedParticles",
+                    "type": "Button",
+                    "id": "6099e748-8b7f-451d-926c-a49071036622",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "GreenParticles",
+                    "type": "Button",
+                    "id": "59bc7524-1924-40dc-9411-1cf26e533577",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "BlueParticles",
+                    "type": "Button",
+                    "id": "3965595f-b76e-4e10-ab7f-cffae0ae14bb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "PurpleParticles",
+                    "type": "Button",
+                    "id": "819c035b-b8ef-4f8a-aa0b-45bddecf68c7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "WhiteParticles",
+                    "type": "Button",
+                    "id": "56ac2760-e6ae-4986-9a54-67d6f6f5b87e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e5485567-3c09-4283-86a7-6d849a0a4444",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RedParticles",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e99c646b-406e-4543-b765-80b073993704",
+                    "path": "<Keyboard>/3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GreenParticles",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "00c67bf1-237d-4daf-8b4a-d65365ea34d2",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BlueParticles",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cb3f3dd8-a507-4e80-be11-3761f5a83864",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PurpleParticles",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f9531c66-7213-4e13-b991-bf8e61271fde",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "WhiteParticles",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "New control scheme",
+            "bindingGroup": "New control scheme",
+            "devices": [
+                {
+                    "devicePath": "<Mouse>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
